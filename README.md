@@ -12,6 +12,6 @@ create a memory game with React.
 - ES6
 
 ## App Link
-https://bikini-bottom-clicky.herokuapp.com/
+https://clicky-game22.herokuapp.com//
 
 ## Author
